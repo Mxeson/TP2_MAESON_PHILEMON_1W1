@@ -35,6 +35,12 @@ h3 {
     padding: 0 0 10px 0;
     font-size: 1rem;
 }
+
+.adresse_H3 {
+    padding: 0 0 10px 0;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+}
 p {
     font-size: 0.9rem;
     font-style: normal;
@@ -59,10 +65,6 @@ code {
 
 .nav a {
  color : rgb(21, 21, 21)
-}
-
-.entete___tete {
- 
 }
 
 .recherche__input {
@@ -147,10 +149,6 @@ code {
     display: flex;
     flex-direction: column-reverse;
 
-}
-
-.stars {
-    
 }
 
 .centre{
